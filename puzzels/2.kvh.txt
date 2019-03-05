@@ -1,0 +1,23 @@
+size
+#10 regels, 10 lang
+10 10
+puzzle
+32222 1212
+  2 3 2 11
+222 2 2  1
+  03 222
+  22222222
+2 22 213 3
+1  11   1
+    03 21
+      1
+   32121 0
+top
+#muurtjes boven (regel,plek)
+3 1
+4 3
+7 5
+left
+#muurtjes links van (regel, plek)
+0 3
+4 1

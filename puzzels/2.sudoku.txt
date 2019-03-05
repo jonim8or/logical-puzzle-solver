@@ -1,0 +1,18 @@
+aaabbbccc
+aaabbbccc
+aaabbbccc
+dddeeefff
+dddeeefff
+dddeeefff
+ggghhhiii
+ggghhhiii
+ggghhhiii
+6   3  8
+1      3
+ 58 1 4 2
+      26
+ 8 5 6  3
+9 5  21
+        6
+   1   5
+   267

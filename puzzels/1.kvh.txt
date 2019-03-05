@@ -1,0 +1,25 @@
+size
+#negen regels, negen lang
+9 9
+puzzle
+ 21
+ 2 23   3
+122 0 312
+223  22 1
+2  2  233
+1    210
+  2110
+ 310
+ 2
+top
+#muurtjes boven (regel,plek)
+0 2
+0 6
+1 4
+3 0
+left
+#muurtjes links van (regel, plek)
+4 8
+5 0
+7 1
+8 3
